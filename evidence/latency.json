@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-28T01:36:11.002Z",
+  "environment": "Two isolated Chromium contexts on one machine, direct WebRTC; browser-driver Save click to the remote note appearing in the DOM. Includes automation, hashing and polling overhead. Not a pure network latency measurement.",
+  "sampleCount": 20,
+  "milliseconds": [
+    20.705834000000323,
+    17.080957999999555,
+    16.57012500000019,
+    17.480625000000146,
+    17.64183299999968,
+    17.29412500000035,
+    18.07316600000013,
+    17.063500000000204,
+    17.05425000000014,
+    17.288542000000234,
+    17.635207999999693,
+    18.01537500000086,
+    16.73399999999947,
+    17.29845900000055,
+    17.641249999999673,
+    17.305833999999777,
+    17.47887499999979,
+    17.56866700000046,
+    16.306500000000597,
+    16.663708000000042
+  ],
+  "medianMs": 17.302146500000163,
+  "p95Ms": 18.07316600000013
+}
